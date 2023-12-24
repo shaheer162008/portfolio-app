@@ -49,7 +49,7 @@ const HeroSection = () => {
               </span>
               </Link>
             <Link
-              href="https://www.linkedin.com/ambry/?x-li-ambry-ep=AQJAmTg_SwOp9QAAAYybST2bPbgEkA5YC_jmgmqycaN2yHEz8TjJEZTB-8DpgmTBdVh0eIjA-bgu6EOS4d42_TufwIEWQpnyIfSEbzP0WQk6LDtkDCqOihIT5_oOFY51DcbtBl9cM56d5JLIiUEl6SQ4awOLLdqnC_Ojy7wHYVQIPty5lkkFZkgH7kFI0Z2bjj-OtpEqYzM6jHH3e_aPKQbL4mKwowHpH3c814eMB27ojr1lfC7zGAUZIgJiiU69loWgJ9fxsm-QmniIP3yu5JlxzSj5QomG09qtvOtRpn9C9Fx1r8LT0hvOnOTO_IqcIhtPzj4JZhAKlgfGox6JnB6dVxNt8ab2RC6cAW5YeX09fMtPghlkStF02gsuaAG39MJYtoHF_QsRqZSl5eFDYhBDROq4r4MfXhQum_nIOdHFWWN7M9mHf8Qybwx8r8AIMgTPLmHfUGPLyx4AV2nNLTJrsrCbjjF1Pum3FUClJ45_AGLrMWP5USfh4e2leJ_qSPrC6_iNZUwAIcxaY4W5B14yVItY9dymITOkEJM4laK8Snm8MllVP205U9ie_1s4oavb8CE&x-ambry-um-filename=Profile.pdf"
+              href="https://drive.google.com/file/d/1MJbFrlEDTTGFmupkbz6qYshgY1oksN9_/view?usp=sharing"
               className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-800 text-white mt-3"
             >
               <span className="block bg-[#808080] hover:bg-slate-800 rounded-full px-5 py-2">
