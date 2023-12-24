@@ -49,7 +49,7 @@ const HeroSection = () => {
               </span>
               </Link>
             <Link
-              href="https://www.linkedin.com/ambry/?x-li-ambry-ep=AQKPmY0A74bmFQAAAYya5asoHww5GvzvyfajuxJm40xNnzfi2OzM9QBml6auEN4hNSkCO5h2WgdJ0ESsv4GiMPfE54s0Dp2De-YfEXzNcgoI8-YmPH-N1Kzl8zmfY0yIUiuOJWr1SotzqltK30yI9y8uvNephwwYLWF25XgGd6tLCcOiw8o3KGX2uTpEEwvo0TuIsITerg222KfGVDLI1nL9OXkf21TUQDMXULnW8WE8dIDYNMkJrJCLDnyA8PvijNaqrk143qRPjnUgF9o4GPhKadbEnYo5gXzoLYK3TkMK7Tt-w73_85QPN7N2ABffD1HpFKKJOvqJMdh81pFxtMxdmh_sgQMZYFHdrNPNHsjZJLASIcCYPLSzcNcBj8BQ0KJxXKJDH6sDtQkxUZvKskVEjooXlxvF3ocY9LORpGJ5C7Rf9EcWkSVGMTCmWU-eEk_kXvMKajGJpYYEEBBWXY_C70b6hM79yybXOSfKdvjA5qu864Yp5OkUjNjzxB149Z2pwULOBYgHYIeJgBdB6EfrgbqIiZFB493uQNdpsHip954O_cyNO3EaL-ppn1nJzgsgCr8&x-ambry-um-filename=Profile.pdf"
+              href="https://www.linkedin.com/ambry/?x-li-ambry-ep=AQJAmTg_SwOp9QAAAYybST2bPbgEkA5YC_jmgmqycaN2yHEz8TjJEZTB-8DpgmTBdVh0eIjA-bgu6EOS4d42_TufwIEWQpnyIfSEbzP0WQk6LDtkDCqOihIT5_oOFY51DcbtBl9cM56d5JLIiUEl6SQ4awOLLdqnC_Ojy7wHYVQIPty5lkkFZkgH7kFI0Z2bjj-OtpEqYzM6jHH3e_aPKQbL4mKwowHpH3c814eMB27ojr1lfC7zGAUZIgJiiU69loWgJ9fxsm-QmniIP3yu5JlxzSj5QomG09qtvOtRpn9C9Fx1r8LT0hvOnOTO_IqcIhtPzj4JZhAKlgfGox6JnB6dVxNt8ab2RC6cAW5YeX09fMtPghlkStF02gsuaAG39MJYtoHF_QsRqZSl5eFDYhBDROq4r4MfXhQum_nIOdHFWWN7M9mHf8Qybwx8r8AIMgTPLmHfUGPLyx4AV2nNLTJrsrCbjjF1Pum3FUClJ45_AGLrMWP5USfh4e2leJ_qSPrC6_iNZUwAIcxaY4W5B14yVItY9dymITOkEJM4laK8Snm8MllVP205U9ie_1s4oavb8CE&x-ambry-um-filename=Profile.pdf"
               className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-800 text-white mt-3"
             >
               <span className="block bg-[#808080] hover:bg-slate-800 rounded-full px-5 py-2">
